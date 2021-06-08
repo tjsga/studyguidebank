@@ -8,5 +8,5 @@ verify_ssl = true
 [packages]
 django = "*"
 social-auth-app-django = "*"
-pillow = "~=6.0"
+pillow = "~=8.2"
 whitenoise = "*"
